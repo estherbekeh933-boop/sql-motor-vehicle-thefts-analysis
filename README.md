@@ -30,4 +30,38 @@ Generate insights that could help improve security and prevention strategies
 
 
 
+**Key SQL Queries**
+
+Some of the main SQL queries used in this project include:
+
+Counting total theft incidents
+
+Identifying the most frequently stolen vehicles
+
+Finding locations with the highest theft rates
+
+Analyzing thefts trends over time
+
+Grouping and aggregating data for deeper insights
+
+
+
+
+**Key Insights**
+
+Certain vehicle types are stolen more frequently than others
+
+Some locations show higher concentrations of theft incidents
+
+Theft occurences may follow specific time or seasonal patterns
+
+
+
+
+**Conclusion**
+
+This project demonstrates how SQL can be applied to real-world datasets to undercover meaningful insights. 
+
+
+
 
